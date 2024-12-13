@@ -7,7 +7,7 @@ author_profile: true
 
 ## Reading Notes (UG)
 
- [PaperReading Link](https://starkerfirst.github.io/PaperReading/)
+ [PaperReading Link](https://fenbuxishu.github.io/PaperReading/)
 
 ## Undergraduate Courses Files
 
@@ -22,16 +22,6 @@ author_profile: true
  [代数结构 edition Ⅲ.pdf](https://starkerfirst.github.io/files/代数结构 edition Ⅲ.pdf) 
 
  [数字集成电路复习.pdf](https://starkerfirst.github.io/files/数字集成电路.pdf) 
-
- [演讲文案.docx](https://starkerfirst.github.io/files/演讲文案.docx) 
-
- [英语演讲.pptx](https://starkerfirst.github.io/files/英语演讲.pptx) 
-
- [少年班学生话科大生活稿件.docx](https://starkerfirst.github.io/files/少年班学生话科大生活稿件.docx) 
-
- [形式与政策感想.pdf](https://starkerfirst.github.io/files/形式与政策感想.pdf) 
-
- [科学与社会研讨课终期报告.pptx](https://starkerfirst.github.io/files/科学与社会研讨课终期报告.pptx) 
 
  [C语言笔记Part1.docx](https://starkerfirst.github.io/files/C语言笔记Part1.docx) 
 
