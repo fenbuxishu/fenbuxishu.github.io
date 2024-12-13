@@ -3,25 +3,33 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
+# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "PS"
+  #   url: /Intro/
     
   - title: "CV"
-    url: /cv/
+    url: /CV/
+
+  - title: "Publications"
+    url: /Publications/
+
+  # - title: "Research"
+    # url: /Research/   
+
+  # - title: "Notes"
+  #   url: /PaperReading/    
+
+  - title: "DocumentRepo"
+    url: /DocumentRepo/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+    
+
+    
+ # - title: "Guide"
+ #   url: /markdown/
