@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Undergraduate student
 
-*Department of Electronic and Computer Engineering*
+*Department of Physics*
 
 *Anhui Normal University (安徽师范大学)*
 
@@ -28,4 +28,4 @@ Welcome to my website!
 
 
 
-#<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=gRoUESTxlj4eEROAGh5ViX7GEPJ_6hJsZc-JDkHNPyM&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wsjyX3Dbw_dO0DrBH97qmQPpOTtVswmCKUxg4gKAe4s"></script>
