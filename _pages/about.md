@@ -13,7 +13,7 @@ redirect_from:
 
 *Anhui Normal University (安徽师范大学)*
 
-
+All science is either physics or stamp collecting. -- Ernest Rutherford
 
 Welcome to my website!
 
