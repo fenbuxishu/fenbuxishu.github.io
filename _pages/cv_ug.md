@@ -17,27 +17,14 @@ Sept. 2023 – Current:  **The Anhui Normal University (AHNU)**
 
 | Item                                                                  | Year |
 | --------------------------------------------------------------------- | ---- |
-| National Scholarship                                                  | 2021 |
-| First Prize of the 13th National College Students Mathematics Contest | 2021 |
-| Yan Jici Talent Class Scholarship                                     | 2022 |
-| Qiangwei Great Ambition Scholarship                                   | 2022 |
-| Alumni (Class of 1987) Innovation Scholarship                         | 2023 |
-| Qiangwei Dedication Scholarship                                       | 2023 |
-| Guanggu Scholarship                                                   | 2023 |
-| USTC Outstanding Graduate                                             | 2024 |
+| Second Prize of the 11th National Undergraduate Physics Experiment Competition (Innovation) | 2025 |
 
 # Research Experiences
 
-Oct. 2022 – Current: **Research Intern, IIIS, Tsinghua University**
+Sep. 2025 – Sep. 2027: **Research Project Lead, Anhui Provincial Undergraduate Innovation and Entrepreneurship Training Program (Ongoing)**
 
-* Advisor: **Prof. Mingyu Gao**
-* topic: **Scalable spatial accelerator for dynamic neural networks with HW-SW co-design**
-
-Jul. 2022 – Sept. 2022: **Intern, Polar Bear Tech**
-
-* Advisor: **Huanbing Shi**
-* Member of the compiling research group
-* topic: **AI operator simulation && sampling case generation**
+* Advisor: **Prof. Zhirong Wang**
+* topic: **Intelligent Innovation in Secondary School Physics Experiment Teaching**
 
 
 # Teaching
