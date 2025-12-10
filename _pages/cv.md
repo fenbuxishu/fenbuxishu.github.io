@@ -1,64 +1,26 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
 ---
+# Education
 
-{% include base_path %}
+Sept. 2023 – today:  **The Anhui Normal University (AHNU), An Hui Wuhu, China**
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc in  Physics
+* GPA: 3.40/4.30     Ranking: 100/324     CGPA: 86.20
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Teaching
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Sept. 2025 – Feb. 2026: **Teaching Assistant, AHNU**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Computer Programming 0** (2025FA)
+* Lecturer: 0000
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Additional Files
+
+* [personal statement](https://fenbuxishu.github.io/PS/)
+* [CV at the undergraduate stage](https://fenbuxishu.github.io/CV_UG/)
