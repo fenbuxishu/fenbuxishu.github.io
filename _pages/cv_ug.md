@@ -26,14 +26,6 @@ Sep. 2025 – Sep. 2027: **Research Project Lead, Anhui Provincial Undergraduate
 * Advisor: **Prof. Zhirong Wang**
 * topic: **Intelligent Innovation in Secondary School Physics Experiment Teaching**
 
-
-# Teaching
-
-Sept. 2025 – Feb. 2026: **Teaching Assistant, AHNU**
-
-* **Computer Programming 0** (2025FA)
-* Lecturer: 0000
-
 # SKILLS
 
 * **Tools:** Python / Matlab / LaTeX / Markdown
