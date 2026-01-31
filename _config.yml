@@ -247,7 +247,7 @@ defaults:
       path: ""
       type: PaperReading
     values:
-      layout: paper
+      layout: single
       author_profile: true
       read_time: true
       comments: false
